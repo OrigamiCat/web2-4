@@ -1,6 +1,6 @@
 .photo{
   float:left;
-  margin-right:30px;
+  margin:0px auto auto 0px;
 }
 div.menu{
   width:200px;
