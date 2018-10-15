@@ -11,5 +11,5 @@ div.menu{
 
 
 footer{
- bottom:0px; 
+ float:bottom;
 }
