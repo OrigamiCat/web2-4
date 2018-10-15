@@ -11,10 +11,21 @@ div.menu{
 
 #ingredent{
  border:1px solid lightcoral; 
+ 
 }
 
-th,td{
-  border:1px solid lightcoral; 
+th{
+  border:1px solid lightcoral;
+  backgraund-color:red;
+  padding:5px;
+  width:100px;
+  text-align:center;
+}
+td{
+  border:1px solid lightcoral;
+  padding:5px;
+  width:80px;
+  text-align:right;
 }
 
 
