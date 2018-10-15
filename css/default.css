@@ -9,6 +9,14 @@ div.menu{
 
 }
 
+#ingredent{
+ border:1px solid lightcoral; 
+}
+
+th,td{
+  border:1px solid lightcoral; 
+}
+
 
 footer{
  clear:left;
